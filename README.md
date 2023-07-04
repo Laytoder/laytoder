@@ -2,7 +2,9 @@
 
 ### My name is Lakshya and I'm a junior at ASU
 
-🔭 I’m currently working on [The Rodel Simulator](http://rodel.theluminositylab.com/)<br>🌱 I’m currently learning AI/ML and Algorithmic Trading<br>📫 Reach me on my LinkedIn at @laytoder
+- 🔭 I’m currently working on [The Rodel Simulator](http://rodel.theluminositylab.com/)
+- 🌱 I’m currently learning AI/ML and Algorithmic Trading
+- 📫 Reach me on my LinkedIn at @laytoder
 
 
 ## Socials:
